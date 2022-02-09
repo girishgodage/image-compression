@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/image_compressor/static/css/main.1a8a0596.css",
-    "main.js": "/image_compressor/static/js/main.8d7059da.js",
-    "index.html": "/image_compressor/index.html",
-    "main.1a8a0596.css.map": "/image_compressor/static/css/main.1a8a0596.css.map",
-    "main.8d7059da.js.map": "/image_compressor/static/js/main.8d7059da.js.map"
+    "main.css": "/image-compression/static/css/main.1a8a0596.css",
+    "main.js": "/image-compression/static/js/main.8d7059da.js",
+    "index.html": "/image-compression/index.html",
+    "main.1a8a0596.css.map": "/image-compression/static/css/main.1a8a0596.css.map",
+    "main.8d7059da.js.map": "/image-compression/static/js/main.8d7059da.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
